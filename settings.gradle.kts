@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "YoudaoA11yService"
+rootProject.name = "YoudaoPen4Luna"
 include(":app")
  

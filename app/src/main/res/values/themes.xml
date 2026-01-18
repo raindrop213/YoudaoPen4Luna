@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.YoudaoA11yService" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.YoudaoPen4Luna" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.YoudaoA11yService" parent="Base.Theme.YoudaoA11yService" />
+    <style name="Theme.YoudaoPen4Luna" parent="Base.Theme.YoudaoPen4Luna" />
 </resources>
